@@ -1,4 +1,4 @@
-/* Copyright © 2012 RGen Solutions . All Rights Reserved.
+/* Copyright Â© 2012 RGen Solutions . All Rights Reserved.
    Contact : support@rgensolutions.com 
 */
  
@@ -2600,4 +2600,4 @@ swapDown:function(i)
 	 Main.hideLoading();
 }
 
-}
+}//comment
