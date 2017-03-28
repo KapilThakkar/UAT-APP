@@ -34,7 +34,7 @@
     prjFulName: "",
     SPUSserID2: "",
     SPUserID1: "",
-    ///Variable Declare By swapnil kamle For Max Due Date
+    //Variable Declare By swapnil kamle For Max Due Date
     getMaxDueDate: "",
     getMinStartDate: "",
     //variables added for stakeholders
