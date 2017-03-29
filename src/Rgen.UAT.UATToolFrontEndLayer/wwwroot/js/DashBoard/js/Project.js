@@ -717,7 +717,7 @@
                         var endDate = new Date(dateString2);
 
                         if (startDate > endDate)
-                        //if (false)
+                        ///if (false)
                         {
                             project.alertBox('End Date should always be greater or equal to the Start Date!');
                             $('#Projectform').show();
